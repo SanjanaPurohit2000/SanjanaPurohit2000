@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sanjana Purohit</h1>
-<h3 align="center">To explore and learn new things is something that I have always with me since my childhood</h3>
+<h1 align="center">Hey 👋, It's me Sanjana Purohit</h1>
+- 🌱 I’m currently learning **GCP, Graphic Designing, Flutter**
 
-- 💬 Ask me about **GCP, Flutter,**
+- 💬 Ask me about **GCP, Flutter, Illustrator, Photoshop**
 
-- 📫 How to reach me **purohitsanjana2012@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j0ITgAyOxw0dAEfn9cCcT0dR4-J5_349/view?usp=sharing](https://drive.google.com/file/d/1j0ITgAyOxw0dAEfn9cCcT0dR4-J5_349/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjana-purohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjana-purohit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjana-purohit-b674b71a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjana-purohit-b674b71a6" height="30" width="40" /></a>
 <a href="https://instagram.com/sailingoversky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sailingoversky" height="30" width="40" /></a>
 </p>
 
