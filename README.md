@@ -59,14 +59,15 @@
     <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </p>
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjanapurohit2000&show_icons=true&locale=en" alt="sanjanapurohit2000" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000"  />
+</p>
+<p>
+<br><h3 align="center">Let's connect and GrowTogether:</h3>
+</p>
 
-
-<br><h3 align="left">Let's connect and GrowTogether:</h3>
 <p>
 <a href="https://linkedin.com/in/sanjana-purohit-b674b71a6/" target="blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="https://instagram.com/sailingoversky"><img src="https://img.shields.io/badge/sailingoversky%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
