@@ -61,7 +61,7 @@
   </p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjanapurohit2000&show_icons=true&locale=en" alt="sanjanapurohit2000" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000" height="300" width="500"  />
 </p>
 <p>
 <br><h3 align="center">Let's connect and GrowTogether:</h3>
