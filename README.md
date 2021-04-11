@@ -59,10 +59,16 @@
     <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjanapurohit2000&show_icons=true&locale=en" alt="sanjanapurohit2000" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000" height="300" width="500"  />
-</p>
+  
+  <table cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sanjanapurohit2000&show_icons=true&locale=en" alt="sanjanapurohit2000" />
+</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapurohit2000&show_icons=true&locale=en&layout=compact" alt="sanjanapurohit2000" height="300" width="400"  /></td>
+  </tr>
+  </table>
+
+
 <p>
 <br><h3 align="center">Let's connect and GrowTogether:</h3>
 </p>
